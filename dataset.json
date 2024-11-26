@@ -1,0 +1,103 @@
+{
+  "test_credentials":[
+
+    {
+      "EMAIL"	: "",
+      "PW"		: "sample_pass"
+    },
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: ""
+    },
+    {
+      "EMAIL"	: "",
+      "PW"		: ""
+    },
+    {
+      "EMAIL"	: "sample@example.com",
+      "PW"		: "sample1234567"
+    },
+    {
+      "EMAIL"	: "kaycee.bradtke@example.com",
+      "PW"		: "password"
+    }
+  ],
+  "test_credentials_PFP":[
+
+    {
+      "EMAIL"	: "",
+      "PW"		: "sample_pass"
+    },
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: ""
+    },
+    {
+      "EMAIL"	: "",
+      "PW"		: ""
+    },
+    {
+      "EMAIL"	: "sample@example.com",
+      "PW"		: "sample1234567"
+    },
+    {
+      "EMAIL"	: "killazawa@yahoo.com",
+      "PW"		: "password1"
+    }
+  ],
+
+  "EMAIL"	: "eugenenuada062@gmail.com",
+  "PW"		: "password",
+
+  "EMAIL_CO_AU"	: "thomas89@example.org",
+  "PW_CO_AU"	: "password",
+  "EMAIL_CO_SU"	: "MAGGIE26@EXAMPLE.ORG",
+  "PW_CO_SU"	: "password",
+
+  "2FA": "password1",
+  "TXT_NAME_SURVEY": "CDE",
+  "TXT_YEAR": "2022",
+  "TXT_ROUND": "1",
+  "TXT_ROUND2": "2",
+  "ADD_HH_HEAD" : "Sample HH head",
+  "ADD_ADDR" : "Sample Add",
+  "ADD_TOT_HH_MEM" : 3,
+  "REMARKS" : "SAMPLE REMARKS",
+  "UPDATE_REMARKS": "1",
+  "UPDATE_ADDRESS": "1",
+  "MERGE_SEARCH" : "SQAD",
+  "USER": "SQAD",
+
+  "FNAME": "SQAD-EAN",
+  "MNAME": "EAN",
+  "LNAME": "SQAD-EAN",
+  "PNUMBER": "9317706508",
+  "PNUMBER1": "931770650",
+  "EADD": "eugenenuada06@gmail.com",
+  "EADD1": "eugenenuada06gmail.com",
+  "ADD": "Taytay Rizal",
+  "ALPHA": "Test 123*",
+
+  "ERR_FN_required" : "First name is required.",
+  "ERR_LN_required" : "Last name is required.",
+  "ERR_PN_required" : "Phone number is required.",
+  "ERR_PN_format" : "Phone number must be 10 digits.",
+  "ERR_EA_required" : "Email is required.",
+  "ERR_EA_Invalid" : "Email is invalid.",
+  "ERR_ADD_required" : "Address is required.",
+  "ERR_RL_Required" : "Role is required.",
+  "ERR_OF_required" : "Office is required.",
+  "CERT_SEARCH" : "HYACINTH",
+  "S_ABB" : "SSS",
+  "S_NAME": "System Security survey",
+  "AUDIT": "PFP SQAD",
+  "Replicate_Number": "1",
+  "Rotation_Number": "6",
+  "SQAD": "SQAD"
+
+
+
+
+
+
+}
